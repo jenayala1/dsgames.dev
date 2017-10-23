@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel</title>
+        <title>Strategy Boost</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
@@ -17,6 +17,7 @@
                 display: table;
                 font-weight: 100;
                 font-family: 'Lato';
+                background-color: #f0ffff;
             }
 
             .container {
@@ -31,14 +32,15 @@
             }
 
             .title {
-                font-size: 96px;
+                font-size: 40px;
+
             }
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">Age defined strategy development through learning based games for dyslexic students, starting with beginner readers</div>
             </div>
         </div>
     </body>
